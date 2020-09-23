@@ -222,4 +222,4 @@
 
 - git命令思维导图：[图源](https://pic3.zhimg.com/80/v2-39de523b898bae06e213604e15291f5a_1440w.jpg?source=1940ef5c)
 
-![](.\pics\git命令思维导图.jpg)
+<img src=".\pics\git命令思维导图.jpg" style="zoom:50%;" />
